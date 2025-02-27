@@ -1,4 +1,6 @@
-# ETH Zürich LaTeX cheat sheet Template
+# Compressible Flows cheat sheet
+
+A cheet sheet for the Compressible FLows lecture at ETH Zurich spring semester 2025
 
 ## Lightweight branch
 
